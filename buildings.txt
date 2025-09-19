@@ -1,8 +1,8 @@
-Hospital
-Cox Creek
-Seven Points
-McFarland
-UNA
-Florence Mall
-Florence Cemetary
-Deibert Park
+AIIMS Delhi (Hospital)
+Green Park
+Hauz Khas
+Lajpat Nagar
+India Gate
+Connaught Place
+Kashmere Gate
+North Campus
